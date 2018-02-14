@@ -2,10 +2,23 @@
   box-sizing: border-box;
 }
 
+body {
+  font: normal 16px Avenir;
+}
+
 h1 {
   font-size: 35px;
   font-weight: bold;
   padding: 5px;
+}
+
+h3  {
+  font-size: 20px;
+  padding: 3px;
+}
+
+p {
+  padding-left: 3px;
 }
 
 ul.nav-bar{
