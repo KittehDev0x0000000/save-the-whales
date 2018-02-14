@@ -8,7 +8,7 @@ h1 {
   padding: 5px;
 }
 
-ul {
+ul.nav-bar{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -16,11 +16,11 @@ ul {
     background-color: #333;
 }
 
-li {
+ul.nav-bar li {
     float: left;
 }
 
-li a {
+ul.nav-bar li a {
     display: block;
     color: white;
     text-align: center;
@@ -29,6 +29,6 @@ li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
+ul.nav-bar li a:hover {
     background-color: #111;
 }
