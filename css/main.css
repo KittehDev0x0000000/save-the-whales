@@ -25,7 +25,7 @@ h3  {
 }
 
 p {
-  padding-left: 3px;
+  margin-left: 3px;
 }
 
 ul.nav-bar{
@@ -34,6 +34,11 @@ ul.nav-bar{
     padding: 0;
     overflow: hidden;
     background-color: #333;
+}
+
+.logo {
+  float: right;
+  width: 10%;
 }
 
 ul.nav-bar li {
