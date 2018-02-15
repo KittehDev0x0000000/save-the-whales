@@ -4,6 +4,7 @@
 
 body {
   font: normal 16px Avenir;
+  background-color: #DFE8E7;
 }
 
 h1 {
@@ -18,6 +19,9 @@ h2 {
   padding: 5px;
 }
 
+img {
+  padding: 10px;
+}
 
 h3  {
   font-size: 20px;
@@ -26,6 +30,10 @@ h3  {
 
 p {
   margin-left: 3px;
+}
+
+.a-h-3 {
+  color: #0025AE;
 }
 
 ul.nav-bar{
