@@ -11,7 +11,10 @@ h1 {
   font-weight: bold;
   padding: 5px;
 }
-
+ul {
+  margin-left: 30px;
+  list-style-type: disc;
+}
 h2 {
   font-size: 28px;
   font-weight: bold;
