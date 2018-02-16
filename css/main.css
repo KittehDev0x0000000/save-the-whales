@@ -4,6 +4,7 @@
 
 body {
   font: normal 16px Avenir;
+  background-color: #DFE8E7;
 }
 
 h1 {
@@ -21,6 +22,9 @@ h2 {
   padding: 5px;
 }
 
+img {
+  padding: 10px;
+}
 
 h3  {
   font-size: 20px;
@@ -28,7 +32,11 @@ h3  {
 }
 
 p {
-  padding-left: 3px;
+  margin-left: 3px;
+}
+
+.a-h-3 {
+  color: #0025AE;
 }
 
 ul.nav-bar{
@@ -37,6 +45,11 @@ ul.nav-bar{
     padding: 0;
     overflow: hidden;
     background-color: #333;
+}
+
+.logo {
+  float: right;
+  width: 10%;
 }
 
 ul.nav-bar li {
