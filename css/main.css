@@ -68,3 +68,8 @@ ul.nav-bar li a {
 ul.nav-bar li a:hover {
     background-color: #111;
 }
+.container{
+  display: block;
+  padding: 0;
+  margin: 0;
+}
